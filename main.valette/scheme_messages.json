@@ -1,4 +1,9 @@
+
+
 {
+    "identifier": "default",
+    "family": "",
+    "themes":{
     "client_dark": {
         "appearance": "dark",
         "colors": {
@@ -2674,5 +2679,6 @@
                 "color_identifier": "white_alpha40"
             }
         }
+    }
     }
 }
