@@ -2,7 +2,7 @@
 
 {
     "identifier": "default",
-    "family": "",
+    "family": "vkme",
     "themes":{
     "client_dark": {
         "appearance": "dark",
