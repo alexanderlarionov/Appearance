@@ -2,7 +2,7 @@
 
 {
     "identifier": "default",
-    "family": "vkme",
+    "family": "me",
     "themes": {
     "space_gray": {
         "appearance": "dark",
